@@ -36,20 +36,60 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/bjbGyW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/NIPyuwN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+  <li> On the admin page click on Agents->Roles->Add New Role.</li> </p>
+  
+  <img src="https://i.imgur.com/sm7cBCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <p> <li> Now we're creating an admin that will have the all the permissions. After you finish configuring click on "Add Role".</li></p>
+  <img src="https://i.imgur.com/EEc5lhg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/rHhDCbx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/mg5NSWS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <li> Now we're going to configure departments. Click on Agents->Departments->Add New Departments. When you finish click on "Create Dept".</li>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<img src="https://i.imgur.com/XrjZvSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QiDrASm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8zzPUsm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/s9kUgcN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <li> Next we're going to create a team. Click on Agents->Teams->Add New Team. When you finish click on "Create Team".</li>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<img src="https://i.imgur.com/33mK4ep.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Me7nDwF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+<p>
+ <li> Then we're going to create some agents. Click on Agents->Agents->Add New Agent. When you finish click on "Create".</li>
+</p>
+<img src="https://i.imgur.com/gIdJ08a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SPYV9jn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NsXDRkE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9aGbGcw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6PHbyzE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p>
+ <li> We're now going to create some users. Switch to the agent panel by clicking on "Agent Panel" in the upper right corner.</li>
+</p>
+<img src="https://i.imgur.com/Gb9RikS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+ <li>After click Users->Users Directory->Add User. Configure it and then click on "Add User".</li>
+</p>
+<img src="https://i.imgur.com/4B8xDHT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p>
+ <li> Now we're switching back to the Admin panel in the upper right corner.</li>
+</p>
+<img src="https://i.imgur.com/NIPyuwN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+ <li> Go to Manage->SLA->Add New SLA Plan to create a SLA. Then we're going to configure it. After configuring the SLA click on "Add Plan".</li>
+</p>
+<img src="https://i.imgur.com/IiKgPaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SpCDFKf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
