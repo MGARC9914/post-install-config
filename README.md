@@ -92,4 +92,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <img src="https://i.imgur.com/IiKgPaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SpCDFKf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p>
+ <li> Lastly we are adding some help topics. First we go to Manage->Help Topics->Add New Help Topic. After configure it then click on "Save Changes"</li>
+</p>
+<img src="https://i.imgur.com/foJUcF5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lFU1eN0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
